@@ -1,0 +1,15 @@
+{
+   "timeZone": "Europe/Kiev",
+   "dependencies": {},
+   "exceptionLogging": "STACKDRIVER",
+   "runtimeVersion": "V8",
+   "sheets": {
+     "macros": [
+       {
+         "menuName": "Defense",
+         "functionName": "Defenses",
+         "defaultShortcut": "Ctrl+Alt+Shift+1"
+       }
+     ]
+   }
+ }
